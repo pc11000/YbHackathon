@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.DS_Store
+.idea/
+frontend/.DS_Store
+frontend/src/.DS_Store
+frontend/src/assets/.DS_Store
+frontend/src/assets/css/.DS_Store
+frontend/src/assets/css/sass/.DS_Store
+frontend/src/assets/fonts/.DS_Store
+frontend/src/assets/img/.DS_Store
+frontend/src/views/.DS_Store
